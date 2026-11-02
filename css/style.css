@@ -107,4 +107,3 @@ footer .copy{border-top:1px solid rgba(255,255,255,.14);margin-top:30px;padding-
 .split img{border-radius:14px;box-shadow:var(--sombra)}
 @media(max-width:900px){.destaque,.split{grid-template-columns:1fr}.destaque img{order:-1}footer .cols{grid-template-columns:1fr 1fr}}
 @media(max-width:640px){.menu{display:none}.brand b{font-size:1rem}.hero .container{padding:64px 20px 70px}footer .cols{grid-template-columns:1fr}}
-
